@@ -3,7 +3,7 @@ import './styles/QuoteBox.css'
 const QuoteBox = ({ handleChange, quote }) => {
   return (
     <section>
-      <h1>FAMOUS QUOTES</h1>
+      <h1>-FAMOUS QUOTES-</h1>
 
       <section className='container'>
         <article>
