@@ -1,0 +1,35 @@
+
+.container {
+  background-color: rgba(0, 0, 0, 0.268);
+  margin: 20px 10px;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 25px;
+  backdrop-filter: blur(15px);
+  max-width: 700px;
+}
+
+
+button {
+  border: none;
+  background: transparent;
+  background-color: rgb(238, 31, 31);
+  width: 150px;
+  height: 40px;
+  border-radius: 5px;
+  transition: 0.5s;
+  font-size: 25px;
+}
+
+button:hover {
+    transform: scale(1.2);
+    
+}
+
+h1 {
+  color: rgb(255, 48, 48);
+  font-size: 40px;
+  margin-bottom: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
