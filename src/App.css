@@ -13,13 +13,13 @@ main {
   background-size: cover;
 }
 .bg1 {
-  background-image: url("/bg1.jpg");
+  background-image: url("/bg1.webp");
 }
 .bg2 {
-  background-image: url("/bg2.jpg");
+  background-image: url("/bg2.webp");
 }
 .bg3 {
-  background-image: url("/bg3.jpg");
+  background-image: url("/bg3.webp");
 }
 .bg4 {
   background-image: url("/bg4.webp");
